@@ -1,9 +1,17 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-import plotly.express as px
-import pickle
-from pysurvival.utils import load_model
+import sys
+import traceback
+
+try:
+    import numpy as np
+    import pandas as pd
+    import plotly.express as px
+    import pickle
+    from pysurvival.utils import load_model
+except Exception as e:
+    st.error(f"Error loading dependencies: {str(e)}")
+    st.code(traceback.format_exc())
+    sys.exit(1)
 
 st.set_page_config(layout="wide")
 
