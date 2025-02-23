@@ -1,3 +1,7 @@
+import os
+# 设置环境变量允许安装废弃的 sklearn 包
+os.environ['SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL'] = 'True'
+
 import streamlit as st
 import sys
 import traceback
