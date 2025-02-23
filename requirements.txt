@@ -1,9 +1,0 @@
-numpy==2.2.3
-pandas
-plotly
-streamlit
-scikit-learn
-scipy
-lifelines
-torch
-git+https://github.com/yjan2088/pysurvival_test.git
