@@ -3,4 +3,4 @@ pandas>=1.3.5
 plotly>=5.7.0
 scikit-learn>=1.0.2
 streamlit>=1.23.1
-git+https://github.com/berleon/pysurvival.git
+git+https://github.com/mfsd2a/pysurvival.git
