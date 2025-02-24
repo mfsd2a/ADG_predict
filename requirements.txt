@@ -1,5 +1,4 @@
 #pysurvival
-pysurvival-0.1.tar.gz
 numpy==1.26.4
 pandas>=1.3.5
 plotly>=5.7.0
