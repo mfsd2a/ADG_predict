@@ -1,3 +1,4 @@
+plotly
 pysurvival
 numpy==1.26.4
 pandas>=1.3.5
@@ -5,5 +6,4 @@ plotly>=5.7.0
 #scikit-learn>=1.0.2
 scikit-learn
 streamlit>=1.23.1
-plotly
 #git+https://github.com/it-dainb/pysurvival.git
