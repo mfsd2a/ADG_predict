@@ -5,4 +5,4 @@ plotly==5.7.0
 scikit-learn==1.0.2
 scikit-learn --only-binary :all:
 streamlit==1.23.1
-pysurvival==0.1.2
+pysurvival
