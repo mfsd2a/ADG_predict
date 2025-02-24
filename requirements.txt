@@ -1,3 +1,4 @@
+sklearn
 plotly
 pysurvival
 numpy==1.26.4
