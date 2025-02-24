@@ -5,10 +5,11 @@ channels:
 - ericmjl
 dependencies:
 - python=3.7
-- pysurvival
-- numpy
-- pandas
-- plotly
-- scikit-learn
-- streamlit
-- plotly
+- pip
+  - pysurvival
+  - numpy
+  - pandas
+  - plotly
+  - scikit-learn
+  - streamlit
+  - plotly
