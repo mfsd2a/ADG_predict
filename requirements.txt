@@ -6,3 +6,4 @@ plotly>=5.7.0
 #scikit-learn
 streamlit>=1.23.1
 #git+https://github.com/it-dainb/pysurvival.git
+torch
